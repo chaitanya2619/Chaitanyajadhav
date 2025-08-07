@@ -1,7 +1,7 @@
 # Chaitanyajadhav
                                              Hi 👋, I'm Chaitanya jadhV
 
-Chaitanyajadhav
+
 
     🔭 I’m currently working as forntend Python ,Sql,PowerBi(Domo)
 
