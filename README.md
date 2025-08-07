@@ -1,9 +1,11 @@
 # Chaitanyajadhav
-                                             Hi 👋, I'm Chaitanya jadhV
+                                             Hi 👋, I'm Chaitanya jadhav
+                                             
+_________________________________________________________________________________________________________________________________________________________________________
 
 
+    🔭 I’m currently working as forntend Python ,Sql,PowerBi(Domo) NEXON OMNIVERSE PRIVATE LIMITED
 
-    🔭 I’m currently working as forntend Python ,Sql,PowerBi(Domo)
 
     🌱 I’m currently learning Domo(PowerBi),SQL
 
@@ -12,7 +14,7 @@
     📫 How to reach me chaitanyaj2004@gmail.com
 
     ⚡ Fun fact I Am Funny😊
-
+__________________________________________________________________________________
 Connect with me:
 
 
