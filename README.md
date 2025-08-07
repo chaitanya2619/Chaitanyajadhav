@@ -1,8 +1,6 @@
 # Chaitanyajadhav
                                              Hi 👋, I'm Chaitanya jadhav
                                              
-_________________________________________________________________________________________________________________________________________________________________________
-
 
     🔭 I’m currently working as forntend Python ,Sql,PowerBi(Domo) NEXON OMNIVERSE PRIVATE LIMITED
 
